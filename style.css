@@ -1,0 +1,14 @@
+.bookSelection__cover {
+    width: 100px;
+}
+
+.bookSelection__row--accent {
+background-color: #def;
+}
+.bookSelection__data-cel {
+    padding: 1em;
+    vertical-align: top;
+}
+.bookSelection__data-cel:nth-child(3) {
+    padding: 0em;
+}
