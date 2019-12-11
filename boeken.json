@@ -1,0 +1,71 @@
+[
+    {
+       "titel": "lord of the rings the two towers",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg",
+       "auteur": ["Jackson, Peter"],
+       "uitgave": " 5 december 2002",
+       "paginas": 	179,
+       "taal": "Engels",
+       "ean": "9789078211433",
+        "prijs": 13.99
+    },
+    {
+       "titel": "star wars the force awakens",
+       "cover": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg",
+       "auteur": ["Abrams, J.J."],
+       "uitgave": "4 december 2015",
+       "paginas": 136,
+       "taal": "Engels",
+        "prijs": 12.99
+    },
+    {
+       "titel": "A Good Day to Die Hard",
+       "cover": "https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+       "auteur": ["John Moore"],
+       "uitgave": "14 februari 2013",
+       "ean": "9789063693275",
+       "paginas": 98,
+       "taal": "Engels",
+        "prijs": 15.99
+    },
+    {
+       "titel": "Avengers: Infinity War",
+       "cover": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg ",
+       "auteur": ["Kevin Feige"],
+       "uitgave": "23 april 2018",
+       "ean": "9789026343315",
+       "paginas": 149,
+       "taal": "Engels",
+        "prijs": 19.99
+    },
+    {
+       "titel": "De hobbit",
+       "cover": "https://vignette.wikia.nocookie.net/thehobbitfilm/images/d/d8/An_unexpected_journey.png/revision/latest?cb=20160924231246",
+       "auteur": ["Peter Jackson"],
+       "uitgave": "12 december 2012",
+       "paginas": 169,
+       "taal": "Engels",
+       "ean": "9780134433943",
+      "prijs": 30.99
+    },
+    {
+       "titel": "John Wick",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/John_Wick_TeaserPoster.jpg/220px-John_Wick_TeaserPoster.jpg",
+       "auteur": ["Chad Stahelski"],
+       "uitgave": "20 november 2014",
+       "paginas": 101,
+       "taal": "Engels",
+       "ean": "9789492899019",
+      "prijs": 16.99
+    },
+    {
+       "titel": "Kick-Ass",
+       "cover": "https://m.media-amazon.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_.jpg",
+       "auteur": ["Matthew Vaughn"],
+       "uitgave": "januari 2016",
+       "paginas": 117,
+       "taal": "Engels",
+       "ean": "9781785881008",
+       "prijs": 15.99
+    }
+ ]
